@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": " what are the books available in the library?"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have access to a full catalog of all books in the library. However, if you have specific book titles in mind, please let me know, and I can look up their availability and due dates for you!"
+  },
+  {
+    "role": "user",
+    "content": "is harry potter available?"
+  },
+  {
+    "role": "assistant",
+    "content": "\"Harry Potter\" (ID: BOOK001) is currently **checked out**. It is scheduled to be returned on **September 5, 2026**."
+  }
+]

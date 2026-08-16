@@ -1,0 +1,26 @@
+[
+  {
+    "role": "human",
+    "content": "what is the weather in bangalore?"
+  },
+  {
+    "role": "ai",
+    "content": []
+  },
+  {
+    "role": "tool",
+    "content": "humid and 28 deg"
+  },
+  {
+    "role": "ai",
+    "content": [
+      {
+        "type": "text",
+        "text": "The weather in Bangalore is currently humid with a temperature of 28\u00b0C.",
+        "extras": {
+          "signature": "EqcBCqQBARFNMg+fbdTcZEj37OfBPzoaXyNepMViP4OSCDyCFpguaPESHgleoCmyoozZqpnYslrCLn73/RNL4MQem01F9h+7v2bTTy3xLOBi9wDFAMkfGrOv2a7uRiJeuKfTA9PoelMm1879GqHE1Vix4hf05U+JQRTE+HIZ7IgstA4RT4cksOUF1dNKaPLRoTo66UBiSPlUpYC1gJHtrusoNwAampjotvE="
+        }
+      }
+    ]
+  }
+]

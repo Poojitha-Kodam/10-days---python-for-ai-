@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "is atomic habits available ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Yes, \"Atomic Habits\" is currently available."
+  },
+  {
+    "role": "user",
+    "content": "is the alchemist available ?"
+  },
+  {
+    "role": "assistant",
+    "content": "No, \"The Alchemist\" is currently checked out. It is due back on August 28, 2026."
+  }
+]

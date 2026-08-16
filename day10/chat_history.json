@@ -1,0 +1,42 @@
+[
+  {
+    "role": "human",
+    "content": "What's the weather in Bangalore?"
+  },
+  {
+    "role": "ai",
+    "content": ""
+  },
+  {
+    "role": "ai",
+    "content": [
+      {
+        "type": "text",
+        "text": "The current weather in Bangalore is 28\u00b0C and humid.",
+        "extras": {
+          "signature": "Er0BCroBARFNMg9Aq91vtumUorDi81ybiOGeOH+PBw5UuDdg1yKGwNKiRa3PKV4fOL7RKnAOo5kg2MmjpNQSlz2Sl2eY+11GlQKvvYlgeFOGg660jx6C9dT77Q940fTMMRjNOYFqRyi0NepCWsVCrN3qP6BfwVc/BkWUFEIj+RYw04sUSCMRbBuPa3SM+yF0p4T//ot7+HobPKHG3YZrL9ZQ4yQ8JrFyn1ftHQI9LSIWBiBL/SY10DSLAVpqUVme"
+        }
+      }
+    ]
+  },
+  {
+    "role": "human",
+    "content": "What's the weather in Bangalore?"
+  },
+  {
+    "role": "ai",
+    "content": []
+  },
+  {
+    "role": "ai",
+    "content": [
+      {
+        "type": "text",
+        "text": "The current weather in Bangalore is 28\u00b0C and humid.",
+        "extras": {
+          "signature": "EpIBCo8BARFNMg8wcQe+O9UEAtFURzqfgDQWr+cEnyluX5Dx6bK1eKhAkHDdjcrr+JkHuNQitUdljL6Phq9mS4aRYjZnBTGaR6DF8oev6/6aI+ISBdjN7g5ZZaQevOqnXWj0r4UkkUGYYAPmI3uvct0a8RcVOIkSjdqJmnaDnjRE/k+cKyskzJwYGrI7Bl3CydCTb0k="
+        }
+      }
+    ]
+  }
+]
